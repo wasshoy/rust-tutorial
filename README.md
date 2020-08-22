@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-[Rust by Example日本語版](https://doc.rust-jp.rs/rust-by-example-ja/) をのんびり進める
+<a src="https://doc.rust-jp.rs/rust-by-example-ja/">Rust by Example日本語版をのんびり進める</a>
 </div>
 
 ## モチベ
