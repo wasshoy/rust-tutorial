@@ -1,4 +1,4 @@
-[“プログラミング言語 Rust: 2nd Edition”の日本語版](https://doc.rust-jp.rs/book/second-edition/foreword.html)をのんびり進める
+[“プログラミング言語 Rust: 2nd Edition”の日本語版](https://doc.rust-jp.rs/book-ja/)をのんびり進める
 
 <p align="center">⚙⚙⚙⚙️⚙️⚙️️️⚙️️⚙️🦀⚙️⚙⚙️⚙⚙⚙️️⚙️⚙️️️</p>
 
